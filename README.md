@@ -1,4 +1,4 @@
-Hello! 👋 I'm Marco Cravo, a passionate JavaScript learner with a keen interest in contributing as a remote volunteer to European companies. I am enthusiastic about leveraging my skills and knowledge to make a positive impact on projects while gaining valuable experience in a remote work environment.
+Hello! 👋 I'm Marco Cravo, a passionate JavaScript learner with a keen interest in contributing as a remote volunteer to Foreign companies. I am enthusiastic about leveraging my skills and knowledge to make a positive impact on projects while gaining valuable experience in a remote work environment.
 
 What I Bring to the Table
 Problem-Solving Skills: I thrive on finding creative solutions to complex problems and enjoy tackling challenges head-on.
