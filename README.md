@@ -7,12 +7,14 @@ Problem-Solving Skills: I thrive on finding creative solutions to complex proble
 Remote Collaboration: I am adept at working in distributed teams, communicating effectively, and managing projects remotely.
 
 Why I'm Interested in Volunteering
+
 I believe in the power of open-source and giving back to the community. By volunteering remotely, I hope to contribute to meaningful projects, learn from experienced developers, and foster a spirit of collaboration within the tech community.
 
 How to Reach Me
 GitHub: Your GitHub Profile Link
 Email: prime@maracs.com.br
 Let's Connect!
+
 I'm eager to connect with like-minded developers, mentors, and organizations. Feel free to reach out if you're interested in collaborating on a project or if you have any opportunities available.
 
 <div style="display: inline_block"><br>
