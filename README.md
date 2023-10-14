@@ -14,8 +14,6 @@ I believe in the power of open-source and giving back to the community. By volun
 
 How to Reach Me
 
-GitHub: Your GitHub Profile Link
-
 Email: prime@maracs.com.br
 
 Let's Connect!
